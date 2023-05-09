@@ -2,7 +2,7 @@
 
 ------
 
-| Name       | link                                                   | 作者                                                     |
+| Name       | link                                                   | 第一作者/开发团队                                                     |
 | ------------ | ------------------------------------------------------------ | -------------------------------------------------------- |
 | MOSS         | https://github.com/OpenLMLab/MOSS                            | 复旦NLP实验室在读博士 孙天祥                             |
 | baize        | https://github.com/project-baize/baize-chatbot               | 加州大学圣地亚哥分校在读博士 Canwen Xu                   |
