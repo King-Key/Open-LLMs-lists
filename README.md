@@ -1,15 +1,3 @@
----
-title: 整理一些开源的LLMs
-categories: AI
-tags:
-  - 类ChatGPT
-  - 大型语言模型LLMs
-abbrlink: 16cb8867
-date: 2023-04-06 16:06:03
-top_img:
-cover:
----
-
 > 自ChatGPT爆火🔥之后，类ChatGPT不断涌现。整理一些关于LLMs的开源项目
 
 | model        | Model link                                                   | 作者                                                     |
