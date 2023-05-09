@@ -9,7 +9,7 @@
 | GLM-130B     | https://github.com/THUDM/GLM-130B                            | 清华大学在读博士 Aohan Zeng                              |
 | ChatGLM-6B   | https://github.com/THUDM/ChatGLM-6B                          | 清华大学x智谱AI                                          |
 | LaMini-LM    | https://github.com/mbzuai-nlp/LaMini-LM                      | 莫纳什大学在读博士 吴明昊                                |
-| WizardLM     | https://github.com/nlpxucan/WizardLM                         | 微软STCA（亚洲软件技术中心）NLP集团高级研究科学家 Can Xu |
+| WizardLM     | https://github.com/nlpxucan/WizardLM                         | Senior Research Scientist @ Microsoft STCA NLP Center Can Xu |
 | PandaLLM     | https://github.com/dandelionsllm/pandallm                    | 南洋理工大学在读博士 焦方锴                              |
 | GPT4Tools    | https://github.com/StevenGrove/GPT4Tools                     | 腾讯 AILab 研究员 宋林                                   |
 | PandaLM      | https://github.com/WeOpenML/PandaLM                          | 北大在读博士 王一栋                                      |
